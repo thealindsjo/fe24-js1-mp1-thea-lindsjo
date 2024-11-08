@@ -1,0 +1,8 @@
+.div-style {
+    width: 35px;
+    border: 10px solid hsl(268 100% 85%);
+}
+
+p{
+    margin: 0;
+}
